@@ -1,6 +1,3 @@
-//DSE_TRANSFORMATION_PAYLOAD
-//SOURCE_HASH: 07253c7c25c609e9e19d7d36324d275727976e107b223c0634289045b46d7915
-//OPTIMIZATION_VECTORS: [Role_Injection, Constraint_Engineering, Contextual_Saturation, Task_Decomposition, CoT_Weaving]
 
 # README.md: The DSE v7.1 System Prompt
 
